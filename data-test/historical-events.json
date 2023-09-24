@@ -1,0 +1,26 @@
+{
+    "result": {
+        "count": "3",
+        "event": {
+            "date": "2012/12/31",
+            "description": " The first commitment period of the Kyoto Protocol ends.{{cite journal",
+            "lang": "en",
+            "category1": "December",
+            "granularity": "year"
+        },
+        "event": {
+            "date": "2012/12/31",
+            "description": "''Pleiades'', a proposed supercomputer built by Intel and SGI for NASA's Ames Research Center, will be completed, reaching a peak performance of 10 Petaflops (10 quadrillion floating point operations per second).ampamp{{cite web|url=<a href=\"http:\/\/www.nas.nasa.gov\/News\/Releases\/2008\/05-07-08.html\">http:\/\/www.nas.nasa.gov\/News\/Releases\/2008\/05-07-08.html<\/a> |title=NASA, Intel, SGI Plan to 'Soup Up' Supercomputer |publisher=Nas.nasa.gov |date= |accessdate=2010-06-02| archiveurl= <a href=\"http:\/\/web.archive.org\/web\/20100528021808\/http:\/\/www.nas.nasa.gov\/News\/Releases\/2008\/05-07-08.html|\">http:\/\/web.archive.org\/web\/20100528021808\/http:\/\/www.nas.nasa.gov\/News\/Releases\/2008\/05-07-08.html|<\/a> archivedate= 28 May 2010 amp!--DASHBot--amp| deadurl= no}}ampamp",
+            "lang": "en",
+            "category1": "Date unknown",
+            "granularity": "year"
+        },
+        "event": {
+            "date": "2012/12/31",
+            "description": "''Sequoia'', a proposed super computer built by IBM for the National Nuclear Security Administration will be completed, reaching a peak performance of 20 Petaflops.ampamp{{cite web|last=Gonsalves |first=Antone |url=<a href=\"http:\/\/www.informationweek.com\/news\/hardware\/supercomputers\/showArticle.jhtml?articleID=213000842ampampsubSection=News\">http:\/\/www.informationweek.com\/news\/hardware\/supercomputers\/showArticle.jhtml?articleID=213000842ampampsubSection=News<\/a> |title=IBM Tapped For 20-Petaflop Government Supercomputer |publisher=Informationweek.com |date= |accessdate=2010-06-02}}ampamp",
+            "lang": "en",
+            "category1": "Date unknown",
+            "granularity": "year"
+        }
+    }
+}
