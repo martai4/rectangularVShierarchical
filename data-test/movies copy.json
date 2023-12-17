@@ -1,0 +1,37 @@
+[
+  {
+    "title": "After Dark in Central Park",
+    "year": 1900,
+    "cast": [],
+    "genres": [],
+    "href": null
+  },
+  {
+    "title": "Clowns Spinning Hats",
+    "year": 1900,
+    "cast": [],
+    "genres": [
+      {"type":
+      "Silent"
+    }
+    ],
+    "href": "Clowns_Spinning_Hats",
+    "extract": "Clowns Spinning Hats is a black-and-white silent film featuring clowns throwing hats back and forth to each other. It was written and produced by Lubin Films and released April 7, 1900."
+  },
+  {
+    "title": "Capture of Boer Battery by British",
+    "year": 1900,
+    "cast": [],
+    "genres": [
+      {"type":
+      "Short"},
+      {"type": "Documentary"},
+      {"type":"Silent"}
+    ],
+    "href": "Capture_of_Boer_Battery_by_British",
+    "extract": "Capture of Boer Battery by British is a black-and-white silent short docu-fiction film produced by James H. White for Edison Manufacturing Company in 1900. It is one minute in length and depicts the resistance of the Gordon Highlanders to the oncoming fire of the Boer's advance during the Boer War. It was filmed in West Orange, New Jersey USA and released April 14, 1900.",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Capture_of_Boer_Battery_by_British_1900_James_H_White_Thomas_Edison.webm/320px--Capture_of_Boer_Battery_by_British_1900_James_H_White_Thomas_Edison.webm.jpg",
+    "thumbnail_width": 320,
+    "thumbnail_height": 240
+  }
+]
