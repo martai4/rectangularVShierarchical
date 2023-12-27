@@ -1,4 +1,24 @@
-# Dokumentacja dla Kodu Serwera i Klienta
+# Uruchomienie za pomocą Dockera
+
+Budowanie obrazu Dockera dla serwera
+
+```bash
+docker build -t flatten-server -f .\client-server-code\Dockerfile .
+```
+
+Uruchomienie kontenera Dockera
+
+```bash
+docker run -p 50051:50051 -p 50052:50052 -p 50053:50053 flatten-server
+```
+
+Uruchomienie skryptu klienta Pythona
+
+```bash
+python client-server-code/client.py
+```
+
+# Samodzielne uruchomienie
 
 Ten dokument opisuje, jak uruchomić serwer i klienta do odczytywania danych z tabel.
 
